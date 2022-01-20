@@ -1,0 +1,78 @@
+  
+  
+  /*greny home page header*/
+
+  body{
+    list-style: none;
+
+}
+.logoapp{
+  font-size: 1.5rem;
+}
+
+/*greny home page body*/
+
+.homebody{
+    margin-top: 20px;
+}
+
+:root {
+    --bs-body-font-size: 1.5rem; 
+  }
+  #postulantgrenyhome li{
+      font-size: 1.5rem;
+  }
+.contenaireLogo>div{
+    color: green;
+    font-weight: 700;
+}
+.footnews>h5{
+    color: red;
+    font-weight: bold;
+}
+.articlefoot{
+    margin-top: 15px;
+}
+footer{
+    height: 300px;
+    background-color: steelblue;
+}
+.socialréseau{
+    
+    padding-top: 200px;
+    height: auto;
+}
+.socialréseau>img{
+    max-width: 100px;
+}
+
+/*formulaire inscription postulants*/
+.postulantform h1{
+    color: red;
+    padding:0px 50%;
+}
+
+/*login page body*/
+.loginbody{
+    margin-top: 20px;
+}
+
+/*register page body*/
+
+/* profile page*/
+.profilebody{
+    margin-top: 20px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.profileapplysection{
+    border: 1px solid #d3e0e9;
+    height: 50px;
+   
+}
+
+.profileapplysection a{
+   color: white;
+   text-decoration-line: none;
+   
+   
+}
